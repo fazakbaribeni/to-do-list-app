@@ -22,8 +22,9 @@ e.g.
 
 2- Run `composer install`
 
+3- Run "php artisan migrate" to create the database tables for the task table  
 
-3- Access the site if your url matches here or your own development setup-> https://todo-app.test/
+4- Access the site if your url matches here or your own development setup-> https://todo-app.test/
 
 
 Any questions feel free to get in touch. 
