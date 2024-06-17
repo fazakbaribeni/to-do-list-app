@@ -3,7 +3,7 @@
 First of all clone the feature branch
 
 1- Copy .env.example into .env into your root direcrotry
-1.1 - Add relavaent details as such as database name and app name 
+1.1 - Add relevant details as such as database name and app name 
 e.g. 
 #APP_URL=https://todo-app.test
 
